@@ -18,10 +18,7 @@ Projenin temel amacı, bir Bulut Hizmet Sağlayıcısı (Cloud Service Provider)
 * VM içerisinde terminal kullanılarak `hello.txt` adında bir metin dosyası oluşturulmuştur.
 * Dosya içerisine `"Hello i2i Academy!"` metni yazılmış ve terminal üzerinden dosya içeriği başarıyla okunmuştur.
 
-## Ekran Görüntüleri
-*(Not: Aldığınız ekran görüntülerini GitHub'a yükledikten sonra bu bölüme ekleyebilirsiniz)*
-
-### Ping Testi Sonucu
+Ekran Görüntülerini Paylaştım.
 
 
-### SSH Bağlantısı ve Dosya İçeriği
+
